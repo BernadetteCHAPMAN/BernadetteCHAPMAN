@@ -15,7 +15,7 @@
 
 ### :woman_technologist: About Me :
 I am a Front End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from South Bay, California.
-- :sparkler: I’m working as a Front End Software Engineer and contributing to building web applications.
+- :sparkler: I’m working as a Front End Software Engineer, contributing to building web applications.
 
 - :seedling: Growing my skills as a Front End developer everyday, and LOVING IT!
 
